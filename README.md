@@ -1,6 +1,6 @@
 # GCN GRB Catalogue Tool
 
-Interactive Python/tkinter tool for helping extract observation records from GCN Circular JSON files and saving them into structured data tables.
+Interactive Python/tkinter tool for helping extract observation records from [GCN Circular](https://gcn.nasa.gov/circulars) JSON files and saving them into structured data tables.
 
 This toolkit was entirely generated through Vibe Coding using [Kimi](https://www.kimi.com).
 
